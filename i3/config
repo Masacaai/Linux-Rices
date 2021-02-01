@@ -1,5 +1,14 @@
+#  __  __           _____                                                                                                                                                 
+# |  \/  |   /\    / ____|   Github: https://www.github.com/Masacaai                                                                                                      
+# | \  / |  /  \  | (___                                                                                                                                                  
+# | |\/| | / /\ \  \___ \                                                                                                                                                 
+# | |  | |/ ____ \ ____) |                                                                                                                                                
+# |_|  |_/_/    \_\_____/                    
+#
+#
 # i3 config file (v4)
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
+# Modified by Masacaai
 
 # Set mod key (Mod1=<Alt>, Mod4=<Super>)
 set $mod Mod1
