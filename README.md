@@ -1,2 +1,3 @@
 # Linux-Stuff
-A collection of all my config files for Linux.
+A collection of all my rices for different Linux window managers.
+
